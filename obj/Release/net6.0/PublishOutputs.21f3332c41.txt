@@ -1,0 +1,7 @@
+/Users/johnpaulumejesi/Projects/Webapps/Webapps/bin/Release/net6.0/publish/Webapps
+/Users/johnpaulumejesi/Projects/Webapps/Webapps/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/johnpaulumejesi/Projects/Webapps/Webapps/bin/Release/net6.0/publish/appsettings.json
+/Users/johnpaulumejesi/Projects/Webapps/Webapps/bin/Release/net6.0/publish/Webapps.dll
+/Users/johnpaulumejesi/Projects/Webapps/Webapps/bin/Release/net6.0/publish/Webapps.deps.json
+/Users/johnpaulumejesi/Projects/Webapps/Webapps/bin/Release/net6.0/publish/Webapps.runtimeconfig.json
+/Users/johnpaulumejesi/Projects/Webapps/Webapps/bin/Release/net6.0/publish/Webapps.pdb
